@@ -1,4 +1,4 @@
-contains the 1.1 release version of bevy-snake hosted on github pages
+contains the 1.2 release version of bevy-snake hosted on github pages
 
 play it here: https://elewinters.github.io/bevy-snake-wasm/
 
